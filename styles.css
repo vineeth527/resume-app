@@ -4,7 +4,7 @@
     --bg-dark: #121212;
     --fg-light: #222222;
     --fg-dark: #e0e0e0;
-    --primary: #ff6347;
+    --primary: #89CFF0;
     --transition: 0.3s ease;
   }
   body[data-theme="light"] {
